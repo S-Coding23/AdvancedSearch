@@ -3,7 +3,7 @@
 AdvancedSearch is designed to automate Google searches, locate a specific target URL, and interact with it intelligently. Built with Selenium, it includes features like IP change detection, robust error handling, and customizable runtime, making it ideal for web scraping, SEO testing, or automated browsing tasks.
 
 ## Features
-- **Targeted Search**: Searches Google for a user-specified keyword and navigates to a target URL (e.g., `nfl.com`).
+- **Targeted Search**: Searches Google for a user-specified keyword and navigates to a target URL (e.g., [`rec0ded88.com`](https://rec0ded88.com)).
 - **IP Change Detection**: Restarts the search if the WAN IP changes, without resetting the runtime timer.
 - **Click Reliability**: Handles "element not interactable" errors with size checks and JavaScript fallbacks.
 - **Session Recovery**: Automatically recreates the browser session if it crashes (e.g., `invalid session id`).
